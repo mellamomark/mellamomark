@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there 👋🏽
+Thank you for visiting my GitHub profile, I'm so excited you are here!
+
+### About Me:
+📊  I'm a data scientist who is passionate about all things data.  
+📚  I love teaching others through creating free resources!  
+😄  Pronouns - He/Him/His.  
+
+### Current Projects:  
+👉🏽  [Directory of all of my data science tutorials.](https://github.com/mellamomark-data-science-tutorials)
+- [How to setup a python environment for data science.](https://github.com/mellamomark-data-science-tutorials/setup-python-env)
+- [Data science interview prep.](https://github.com/mellamomark-data-science-tutorials/data-science-interview-prep)
+
+### Fun Facts:  
+🕺🏽  I use to be a dancer and street performer.  
+🏉  When I'm not coding, I'm playing rugby.  
+🎥  My favorite movie is the 1988 anime *Akira*.
+
+### Follow Me:
+⛓️ https://www.linkedin.com/in/mafreeman2/
 
 <!--
 **mellamomark/mellamomark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
