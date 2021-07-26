@@ -7,9 +7,9 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 😄  Pronouns - He/Him/His.  
 
 ### Current Projects:  
-👉🏽  [Directory of all of my data science tutorials.](https://github.com/mellamomark-data-science-tutorials)
-- [How to setup a python environment for data science.](https://github.com/mellamomark-data-science-tutorials/setup-python-env)
-- [Data science interview prep.](https://github.com/mellamomark-data-science-tutorials/data-science-interview-prep)
+👉🏽  [LinkedIn NLP Analysis Tutorial](https://github.com/mellamomark/linkedin-nlp-analysis/blob/master/README.md)
+- [How to setup a python environment for data science.](https://github.com/mellamomark/setup-python-env)
+- [Data science interview prep.](https://github.com/mellamomark/data-science-interview-prep)
 
 ### Fun Facts:  
 🕺🏽  I use to be a dancer and street performer.  
