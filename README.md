@@ -7,7 +7,7 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 😄  Pronouns - He/Him/His.  
 
 ### Current Projects:  
-👉🏽 [LinkedIn NLP Analysis Tutorial](https://github.com/mellamomark/linkedin-nlp-analysis/blob/master/README.md)  
+👉🏽 [LinkedIn NLP Analysis Tutorial](https://github.com/mellamomark/linkedin-nlp-analysis)  
 👉🏽 [How to setup a python environment for data science.](https://github.com/mellamomark/setup-python-env)  
 👉🏽 [Data science interview prep.](https://github.com/mellamomark/data-science-interview-prep)  
 
